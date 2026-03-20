@@ -1,2 +1,3 @@
-# open-game-engine-gjp8
-A game engine project for modern development workflows
+# Open Game Engine Gjp8
+
+A game engine project for modern development workflows.
